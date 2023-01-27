@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yujianhao1314@gmail.com
+	name = Jianhao Yu
